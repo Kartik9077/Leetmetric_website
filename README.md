@@ -18,7 +18,7 @@ A sleek and modern dashboard to visualize your **LeetCode** performance using **
 - [TailwindCSS](https://tailwindcss.com)
 - [Chart.js](https://www.chartjs.org/)
 - [ApexCharts](https://apexcharts.com/)
-- Vanilla JavaScript
+-  JavaScript
 - HTML5 & CSS3
 
 ---
